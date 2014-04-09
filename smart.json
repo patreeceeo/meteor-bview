@@ -1,9 +1,9 @@
 {
   "name": "bem-view",
-  "description": "",
+  "description": "A View class for Meteor inspired by Backbone and BEM Methodology",
   "homepage": "",
   "author": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "",
   "packages": {}
 }
