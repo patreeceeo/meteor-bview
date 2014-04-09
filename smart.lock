@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "bem-view": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "bem-view": {
+        "path": "."
+      }
+    }
+  }
+}

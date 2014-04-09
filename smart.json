@@ -3,7 +3,7 @@
   "description": "A View class for Meteor inspired by Backbone and BEM Methodology",
   "homepage": "",
   "author": "",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "git": "",
   "packages": {}
 }
