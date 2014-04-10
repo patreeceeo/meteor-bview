@@ -3,7 +3,10 @@
   "description": "A View class for Meteor inspired by Backbone and BEM Methodology",
   "homepage": "",
   "author": "",
-  "version": "0.0.31",
-  "git": "",
-  "packages": {}
+  "version": "0.0.32",
+  "git": "https://github.com/pzatrick/meteor-bview.git",
+  "packages": {
+    "coffeescript": "1.0",
+    "ui": "1.0"
+  }
 }
