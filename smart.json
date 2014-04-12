@@ -3,7 +3,7 @@
   "description": "A View class for Meteor inspired by Backbone and BEM Methodology",
   "homepage": "http://marmalade.meteor.com",
   "author": "Patrick Canfield",
-  "version": "0.0.34",
+  "version": "0.0.35",
   "git": "https://github.com/pzatrick/meteor-bview.git",
   "packages": {}
 }

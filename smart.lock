@@ -2,12 +2,12 @@
   "meteor": {},
   "dependencies": {
     "basePackages": {
-      "bem-view": {
+      "bview": {
         "path": "."
       }
     },
     "packages": {
-      "bem-view": {
+      "bview": {
         "path": "."
       }
     }
