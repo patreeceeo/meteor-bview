@@ -9,9 +9,16 @@ class View
   constructor: ->
     @_assignEventsToTemplate()
     @_assignDataHelpersToTemplate()
+    @_cacheNC()
     @initialize()
 
   initialize: ->
+
+  _cacheNC: ->
+    nc = {}
+    for own key, value of @nc
+      nc[key] = @template.findAll(@buildBEMSelector(value))
+    @nc = nc
 
   _assignDataHelpersToTemplate: ->
     boundHelpers = {}
